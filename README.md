@@ -1,6 +1,6 @@
-\# Plotting and Visualization with MATPLOTLIB
+\#Plotting and Visualization with MATPLOTLIB
 
-\### Prerequisites
+\###Prerequisites
 
 * python3
 * numpy
