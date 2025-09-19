@@ -1,7 +1,28 @@
-\#Plotting and Visualization with MATPLOTLIB
+\# Plotting and Visualization with MATPLOTLIB
 
-\###Prerequisites
 
-* python3
-* numpy
-* pandas
+
+\### Prerequisites
+
+\- Python 3.x
+
+\- numpy
+
+\- pandas
+
+
+
+\### Installation
+
+If you are using \*\*Anaconda Navigator\*\* (recommended), `matplotlib`, `seaborn`, `numpy`, and `pandas` come pre-installed.  
+
+For additional packages, install them using:
+
+
+
+```bash
+
+conda install -c conda-forge cufflinks-py plotly ipywidgets
+
+
+
